@@ -6,8 +6,8 @@ int main()
 
 
 {
-	double a;				//definiujemy a i b- póki co będziemy na nich bazować
-	double b;				//kalkulator będzie dwuliczbowy
+	double a;  //definiujemy a i b- póki co będziemy na nich bazować
+	double b;  //kalkulator będzie dwuliczbowy
 
 	cout << "Jakie dzialanie chcesz wybrac? \n";
 	cout << "\n 1- dodawanie \n 2- odejmowanie \n 3- mnozenie \n 4- dzielenie \n\n";
