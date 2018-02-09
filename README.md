@@ -4,6 +4,7 @@ int main()
 
 // jadziem z kalkulatorem
 
+
 {
 	double a;				//definiujemy a i b- póki co będziemy na nich bazować
 	double b;				//kalkulator będzie dwuliczbowy
